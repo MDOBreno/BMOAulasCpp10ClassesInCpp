@@ -10,7 +10,7 @@
 
 #define Log(x) std::cout << x << std::endl
 
-//#define struct class    //Serve paar manter a compatibilidade de Struct's da linguagem C, para o C++.
+//#define struct class    //Serve para manter a compatibilidade de Struct's da linguagem C, para o C++.
 
 //A diferença entre Struct e Class é que a primeira por padrao atrib/metod são publicos,classes o contrario.
 
